@@ -1,0 +1,4 @@
+libexec/gcc/x86_64-linux/9.3.0/cc1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/x86_64-linux/9.3.0/cc1plus filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/x86_64-linux/9.3.0/f951 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/x86_64-linux/9.3.0/lto1 filter=lfs diff=lfs merge=lfs -text
